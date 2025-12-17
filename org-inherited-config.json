@@ -5,6 +5,7 @@
     ":disableRateLimiting",
     ":combinePatchMinorReleases",
     ":maintainLockFilesMonthly",
+    ":automergeDigest",
     ":automergeLinters",
     ":automergeTesters",
     ":automergeTypes"
