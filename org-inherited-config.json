@@ -7,7 +7,7 @@
     "customManagers:tsconfigNodeVersions",
     ":disableRateLimiting",
     ":combinePatchMinorReleases",
-    ":maintainLockFilesMonthly",
+    ":maintainLockFilesWeekly",
     ":automergeDigest",
     ":automergeLinters",
     ":automergeTesters",
