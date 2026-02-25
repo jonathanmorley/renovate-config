@@ -11,7 +11,8 @@
     ":automergeDigest",
     ":automergeLinters",
     ":automergeTesters",
-    ":automergeTypes"
+    ":automergeTypes",
+    ":automergePatch"
   ],
   "nix": {
     "enabled": true
