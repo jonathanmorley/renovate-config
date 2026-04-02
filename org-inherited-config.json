@@ -5,6 +5,7 @@
     "customManagers:dockerfileVersions",
     "customManagers:githubActionsVersions",
     "customManagers:tsconfigNodeVersions",
+    "helpers:pinGitHubActionDigestsToSemver",
     ":disableRateLimiting",
     ":combinePatchMinorReleases",
     ":maintainLockFilesWeekly",
