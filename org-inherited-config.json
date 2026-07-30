@@ -8,7 +8,6 @@
     "helpers:pinGitHubActionDigestsToSemver",
     ":disableRateLimiting",
     ":combinePatchMinorReleases",
-    ":maintainLockFilesWeekly",
     ":automergeDigest",
     ":automergeLinters",
     ":automergeTesters",
