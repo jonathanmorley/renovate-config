@@ -6,13 +6,11 @@
     "customManagers:githubActionsVersions",
     "customManagers:tsconfigNodeVersions",
     "helpers:pinGitHubActionDigestsToSemver",
-    ":disableRateLimiting",
-    ":combinePatchMinorReleases",
+    ":automergeStableNonMajor",
     ":automergeDigest",
     ":automergeLinters",
     ":automergeTesters",
-    ":automergeTypes",
-    ":automergePatch"
+    ":automergeTypes"
   ],
   "nix": {
     "enabled": true
